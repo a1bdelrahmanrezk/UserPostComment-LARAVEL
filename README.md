@@ -2,7 +2,7 @@
 
 ### Steps Cloning laravel project from github
 <ol>
-    <li>Run git clone <clone-link-project></li>
+    <li>Run git clone clone-link-project</li>
     <li>Run composer install</li>
     <li>Run cp .env.example .env</li>
     <li>Run php artisan key:generate</li>
